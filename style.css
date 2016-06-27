@@ -1,0 +1,18 @@
+/*
+Theme Name: Origamiez Child WP Post Views
+Theme URI: 
+Author: Colours Theme
+Author URI: http://colourstheme.com
+Description: I am a child theme of Origamiez theme.
+Version: 1.0.0
+License: GNU General Public License v3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: light, white, red, one-column, two-columns, right-sidebar, fixed-layout, fluid-layout, responsive-layout, custom-background, custom-colors, custom-menu, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+Text Domain: origamiez-child
+Requires at least: 3.8
+Tested up to: 4.4.2
+Template: origamiez
+*/
+
+@import url("../origamiez/style.css"); 
+
